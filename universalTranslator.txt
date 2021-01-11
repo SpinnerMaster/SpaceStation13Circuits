@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-c electronic device","name":"Universal Translator"},"components":[{"type":"microphone","name":"I - Listener"},{"type":"text-to-speech circuit","name":"O - Translation","inputs":[[1,0,"That too."]]},{"type":"tiny photovoltaic cell"},{"type":"tiny photovoltaic cell"}],"wires":[[[1,"O",2],[2,"I",1]],[[1,"A",2],[2,"A",1]]]}
