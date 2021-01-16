@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-d electronic assembly"},"components":[{"type":"sensor"},{"type":"reagent pump","inputs":[[3,0,40]]},{"type":"smoke generator"},{"type":"one-sec delay circuit"},{"type":"button"}],"wires":[[[1,"O",1],[2,"I",1]],[[1,"A",1],[2,"A",1]],[[2,"I",2],[3,"O",2]],[[3,"A",1],[4,"A",2]],[[4,"A",1],[5,"A",1]]]}
